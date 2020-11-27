@@ -1,0 +1,186 @@
+body{
+	font-size: 22px;
+	background-color: #000F17; 
+	font-weight: 700;
+	font-family: 'Roboto', sans-serif;
+	padding: 35px 0px 15px 0px;
+}  
+
+*, *::before, *::after{ 
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+	h1{
+		color: #EBFBFB;
+		text-align: center;
+		padding:  45px 0px 0px 0px ;
+
+	}
+	span{
+		font-size: 15px;
+		font-style: italic;
+		color: #C1CCCC;	
+		padding: 5px 4px 15px 4px;
+	}
+
+				ol#menusorom li{
+					float: left;
+					border: 2px black;
+					display: inline-block;
+					margin: 0px 27px 7px 0px;
+				}
+
+
+				div#menusor {
+					background-color: #DBDDFE;
+					max-width: 95%;
+					height: 100%;
+					margin: 15px 34px 5px 34px;
+				}
+
+
+				ol#menusorom {
+					list-style: none;
+					padding: 22px 7% 8% 18%;
+				}
+
+				ol#menusorom li div{
+					height: auto;
+					width: 190px;
+					padding: 20px;
+					text-align: center; 
+					font-size: 19px;
+					background-color: #F1FBFF;
+					cursor: pointer;
+				}
+
+
+				ol#menusorom li div a{
+					text-decoration: none;
+					 color: #000F17;
+				}
+
+				ol#menusorom li div:hover{
+					border-color: red;
+					background-color: #ACA0C1;
+				}
+
+				ol#menusorom li div:hover a{
+					color: #F1E8FF;
+				}
+
+
+	.en{
+	    display: inline-block;
+		border:2px solid black;
+		text-align: left;
+		max-width: 95%;
+		margin: 40px 20px 30px 20px;
+		padding: 40px;
+		font-size: 16px;
+		background-color: #F8FEFE;
+	}
+
+		.foto99{
+
+			float: right;
+			max-height: 180px;
+			margin: 7px 7px 7px 12px;
+			max-width: 100%;
+		}
+
+
+	.elerhetoseg{
+		display: inline-block;
+		border:2px solid black;
+		text-align: left;
+		max-width: 95%;
+		margin: 40px 20px 30px 20px;
+		padding: 40px;
+		font-size: 16px; 
+		background-color: #F8FEFE;
+	}
+
+				.email {
+					font-style: oblique;
+				}
+
+
+	.igykeszul{
+		display: inline-block;
+		background-color: #F4FAFA;
+		border:2px solid black;
+		text-align: left;
+		max-width: 95%;
+		margin: 40px 20px 30px 20px;
+		padding: 40px;
+		font-size: 16px;
+	}
+						
+		.igykeszultkep {
+
+			float:right;
+			max-height: 28rem;
+			margin:0px 0px 15px 12px;
+			max-width: 100%;
+		}
+
+
+
+	
+	.divkepeim{
+
+	padding: 40px 3% 3% 3%;
+	}
+
+
+			.képeim {
+				
+				vertical-align: top;
+				display: inline-block;
+				background-color: #FAFAFA;
+				border: 2px solid black;
+				border-radius: 5px;
+				padding: 10px 5px 10px 5px;
+				font-size: 18px;
+				margin: 1rem;
+				text-align: center;
+				max-width: 32rem;
+			}
+
+		
+					.cim {
+				font-size: 15px;
+				font-style: italic;
+				color: #5B3E8C;	
+				padding: 5px 4px 15px 4px;
+			}
+
+			.képeim img{
+				max-width: 60%;
+				display: block; 
+				margin: 21px auto 30px auto;
+						transition: 2s;
+
+			}
+
+			.nagyok img{
+						transition: 2s;
+						margin: 28px auto 40px auto;
+
+			}
+
+					.képeim:hover img{
+						transform: scale( 1.2 );
+						cursor: none;
+					}
+
+					.nagyok:hover img{
+						transform: scale( 1.1 );
+						cursor: none;
+					}
+
+
