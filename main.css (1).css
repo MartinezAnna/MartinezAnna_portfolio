@@ -123,6 +123,13 @@ body{
 		.igykeszultkep {
 
 			float:right;
+			max-height: 20rem;
+			margin:0px 0px 15px 12px;
+			max-width: 100%;
+		}
+		.igykeszultkep2 {
+
+			float:right;
 			max-height: 28rem;
 			margin:0px 0px 15px 12px;
 			max-width: 100%;
