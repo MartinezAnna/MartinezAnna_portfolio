@@ -44,7 +44,7 @@ body{
 
 				ol#menusorom {
 					list-style: none;
-					padding: 22px 7% 8% 13%;
+					padding: 22px 7% 8% 18%;
 				}
 
 				ol#menusorom li div{
@@ -123,14 +123,14 @@ body{
 		.igykeszultkep {
 
 			float:right;
-			max-height: 20rem;
+			max-height: 17rem;
 			margin:0px 0px 15px 12px;
 			max-width: 100%;
 		}
 		.igykeszultkep2 {
 
 			float:right;
-			max-height: 28rem;
+			max-height: 24rem;
 			margin:0px 0px 15px 12px;
 			max-width: 100%;
 		}
