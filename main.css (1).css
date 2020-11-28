@@ -2,7 +2,7 @@ body{
 	font-size: 22px;
 	background-color: #000F17; 
 	font-weight: 700;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'candara', candara;
 	padding: 35px 0px 15px 0px;
 }  
 
@@ -36,15 +36,15 @@ body{
 
 				div#menusor {
 					background-color: #DBDDFE;
-					max-width: 95%;
+					max-width: 98%;
 					height: 100%;
-					margin: 15px 34px 5px 34px;
+					margin: 15px 15px 5px 15px;
 				}
 
 
 				ol#menusorom {
 					list-style: none;
-					padding: 22px auto auto 22px;
+					padding: 22px 7% 8% 12%;
 				}
 
 				ol#menusorom li div{
